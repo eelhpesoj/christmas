@@ -1,3 +1,5 @@
+```
+
  __  __                      
 |  \/  | ___ _ __ _ __ _   _ 
 | |\/| |/ _ \ '__| '__| | | |
@@ -10,5 +12,9 @@
 | |___| | | | |  | \__ \ |_| | | | | | (_| \__ \_|
  \____|_| |_|_|  |_|___/\__|_| |_| |_|\__,_|___(_)
                                                   
-
-![Screen Recording 2025-12-26 at 19 51 39](https://github.com/user-attachments/assets/a2486c98-98f6-4dcb-bc9b-31b923213fa6)
+```
+<img
+  src="https://github.com/user-attachments/assets/6aeb1614-1603-4f15-9248-1b8f33c9566b"
+  width="250"
+  height="500"
+/>
